@@ -1,0 +1,38 @@
+form {
+  display: table;
+}
+
+div. {
+  display: table-row;
+}
+
+label, input {
+  display: table-cell;
+  margin-bottom: 10px;
+}
+
+label {
+  padding-right: 10px;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  .img {
+    height: 200px;
+    width: 200px;
+  }
